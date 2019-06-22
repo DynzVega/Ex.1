@@ -1,0 +1,17 @@
+h1{
+    color:red
+}
+.txt-blue{
+    color:blue
+}
+
+.head-div{
+    width: 200px;
+    height: 200px;
+    background-color:red;
+    margin:20px
+}
+.head-div>p{
+    color:#fff247;
+    padding: 20px
+}
